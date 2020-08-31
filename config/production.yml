@@ -1,0 +1,4 @@
+# server:
+#   origin: http://copied-url-from-aws-bucket.amazonaws.com
+db:
+  synchronize: false
